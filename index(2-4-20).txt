@@ -6,9 +6,9 @@ commands ==> rightclick ==> git bash here
 git changes commands:
 
 git status 
-git add .
+git add . OR git add "filename"
 git commit -m "message"
-
+git push -u origin master
 
 how to revise any code/file which was deleted/effected
 
