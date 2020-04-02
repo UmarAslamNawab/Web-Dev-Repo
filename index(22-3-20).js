@@ -14,7 +14,7 @@
 
 var myPrompt1= +prompt("Enter first no?",15)
 alert(myPrompt1)
-alert("Mariam's Git Class")
+alert("Mariam's Git Class Modification")
 // var myPrompt2= +prompt("Enter second no?")
 // var result = myPrompt1 + myPrompt2
 // document.write("Sum of " + myPrompt1 + " and " + myPrompt2 + " is " + result)
