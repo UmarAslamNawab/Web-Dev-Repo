@@ -3,6 +3,18 @@ Git Related Stuff
 GIT LINK : https://git-scm.com/
 commands ==> rightclick ==> git bash here
 
+
+
+//How to upload on new repo
+
+git init
+git add .
+git commit -m "any message"
+git remote add origin "your repo address"
+git push -u origin master
+
+
+
 //git changes commands:
 
 git status 
@@ -22,3 +34,13 @@ git clone "repo address"
 
 git pull
 
+
+git videos:
+
+https://www.youtube.com/watch?v=9GKpbI1siow&t=2s
+https://www.youtube.com/watch?v=n-p1RUmdl9M&t=481s
+https://www.youtube.com/watch?v=UFEby2zo-9E&t=1s
+
+
+Our Repo Link:
+https://github.com/UmarAslamNawab/Web-Dev-Repo
