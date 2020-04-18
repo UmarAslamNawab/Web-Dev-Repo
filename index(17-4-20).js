@@ -111,17 +111,17 @@ for (initializer ; condition ; incrementer/decrementer)
 
 
 /** with for loop **/
-// for (var i = 0; i < 10; i++) {
-//   document.write("Hello World " + "<br>");
-// }
-
-
-
-var cleanestCities = ["lahore", "islamabad", "murree", "hunza"];
-document.write("<h4>Cleanest Cities List</h4>");
-// console.log(cleanestCities.length)
-
-for (var i = 0; i < cleanestCities.length ; i++) {
-  document.write(cleanestCities[i] + " at index " + i + "<br>");
+for (var i = 0; i < 10; i+=2) {
+  document.write("Hello World " + "<br>");
 }
+
+
+
+// var cleanestCities = ["lahore", "islamabad", "murree", "hunza"];
+// document.write("<h4>Cleanest Cities List</h4>");
+// // console.log(cleanestCities.length)
+
+// for (var i = 0; i < cleanestCities.length ; i++) {
+//   document.write(cleanestCities[i] + " at index " + i + "<br>");
+// }
 
