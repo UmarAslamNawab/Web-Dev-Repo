@@ -94,7 +94,7 @@ var user = "karAchI"
 
 //convert user input into small case //karachi
 
-if(user === "karachi")
+// if(user === "karachi")
 
 
 
