@@ -137,3 +137,19 @@ function calcShippingCharges(amount) {
 // // add(); //0
 // // add(3); //1
 // add(5, 7); //2
+
+
+
+function chngCase(param) {
+    var strng = param.toLowerCase().split(' ');
+    for (var i = 0; i < strng.length; i++) {
+        strng[i] = strng[i].charAt(0).toUpperCase() + strng[i].substring(1);     
+    }
+    return strng.join(' '); 
+  }
+ 
+console.log(chngCase("my name is umar aslam"));
+document.write(chngCase("my name is umar aslam"))
+
+
+// funcCall(parama,paramb)
